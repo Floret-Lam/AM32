@@ -8146,7 +8146,7 @@
   </Target>
 
   <Target>
-    <TargetName>SEQURE_4IN1_F421</TargetName>
+    <TargetName>SEQURE_F421_TEST</TargetName>
     <ToolsetNumber>0x4</ToolsetNumber>
     <ToolsetName>ARM-ADS</ToolsetName>
     <TargetOption>
