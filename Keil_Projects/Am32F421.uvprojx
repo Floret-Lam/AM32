@@ -19279,7 +19279,7 @@
       </Groups>
     </Target>
     <Target>
-      <TargetName>SEQURE_TEST_F421</TargetName>
+      <TargetName>SEQURE_F421_TEST</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
       <pCCUsed>6190000::V6.19::ARMCLANG</pCCUsed>
@@ -19320,7 +19320,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>AM32_SEQURE_TEST_F421</OutputName>
+          <OutputName>AM32_SEQURE_F421_TEST</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -19609,7 +19609,7 @@
             <v6Rtti>0</v6Rtti>
             <VariousControls>
               <MiscControls></MiscControls>
-              <Define>AT32F421K8U7,USE_STDPERIPH_DRIVER, SEQURE_TEST_F421</Define>
+              <Define>AT32F421K8U7,USE_STDPERIPH_DRIVER, SEQURE_F421_TEST</Define>
               <Undefine></Undefine>
               <IncludePath>..\Inc;..\mcu\f421\Inc;..\Mcu\f421\Drivers\drivers\inc;..\Mcu\f421\Drivers\CMSIS\cm4\device_support;..\Mcu\f421\Drivers\CMSIS\cm4\core_support</IncludePath>
             </VariousControls>
